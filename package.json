@@ -28,7 +28,7 @@
     "datatables.net-dt": "^1.10.20",
     "express": "^4.17.1",
     "moment": "^2.24.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "printd": "^1.4.1",
     "vue-html-to-paper": "^1.1.1",
     "vue-json-excel": "^0.2.98",
